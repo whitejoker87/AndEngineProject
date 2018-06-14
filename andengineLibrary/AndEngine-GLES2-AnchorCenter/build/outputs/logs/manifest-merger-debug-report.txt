@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:3:2-25
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:5:2-27
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:4:2-25
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:7:2-74
+	android:glEsVersion
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:7:16-48
+	android:required
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:7:49-72
+uses-sdk
+ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:2-68
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:2-68
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:2-68
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:2-68
+INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:2-68
+	android:targetSdkVersion
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:38-66
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:9:12-37
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+		INJECTED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml
+application
+ADDED from D:\android\AndEngineProject\andengineLibrary\AndEngine-GLES2-AnchorCenter\AndroidManifest.xml:10:2-16
